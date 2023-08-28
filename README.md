@@ -32,7 +32,11 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugi
 ```
 # Subspace Guide cài đặt
-1/
+1/ Tải về thư mục Subspace
+```
+git clone https://github.com/pnpn1212/Subspace-monitor-windows.git
+```
+2/
 Sửa đổi tên Node, địa chỉ ví, đường dẫn lưu file, đường dẫn plot, dung lượng cần plot
 ```
 nano docker-compose.yml 
@@ -41,7 +45,7 @@ Lưu lại sau khi nano
 ```
 Ctrl + X + Y 
 ```
-2/
+3/
 Bắt đầu cài đặt
 ```
 docker compose up -d
@@ -50,7 +54,7 @@ Nếu không chạy được thì dùng
 ```
 docker-compose up -d
 ```
-3/
+4/
 Truy cập Grafana
 ```
 localhost:3000
