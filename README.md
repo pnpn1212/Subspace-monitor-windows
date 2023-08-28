@@ -31,7 +31,7 @@ sudo apt-get update
 ```
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugi
 ```
-# Subspace Guide cài đặt
+# Subspace Guide cài đặt (dành cho docker desktop trên Windows)
 1/ Tải về thư mục Subspace
 ```
 git clone https://github.com/pnpn1212/Subspace-monitor-windows.git
