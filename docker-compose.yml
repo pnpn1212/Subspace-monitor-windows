@@ -49,7 +49,7 @@ services:
      [
       "farm",       
       "path=/media/subspace-e,size=100G", # thay doi dung luong can plot       
-      "path=/media/subspace-f,size=250",          
+      "path=/media/subspace-f,size=25G",          
       "--node-rpc-url", "ws://node:9944",
       "--listen-on", "/ip4/0.0.0.0/tcp/30533",
       "--reward-address", "nhap dia chi vi cua ban"      
