@@ -1,35 +1,7 @@
 # Cài đặt Docker
-
-1/ cập nhật hệ thống:
+Tải về và cài đặt
 ```
-sudo apt update && sudo apt upgrade -y
-```
-2/
-```
-sudo apt-get update
-sudo apt-get install \
-ca-certificates \
-curl \
-gnupg
-```
-```
-sudo install -m 0755 -d /etc/apt/keyrings
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
-sudo chmod a+r /etc/apt/keyrings/docker.gpg
-```
-```
-echo \
-"deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
-"$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | \
-sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-```
-3/
-```
-sudo apt-get update
-```
-4/ Cài docker
-```
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugi
+https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*xi55t8*_ga*Mzg3NDU4MjguMTY5MjY5OTgxMg..*_ga_XJWPQMJYHQ*MTY5MzI1NDg2NC4zLjAuMTY5MzI1NDg2NC42MC4wLjA
 ```
 # Subspace Guide cài đặt (dành cho docker desktop trên Windows)
 1/ Tải về thư mục Subspace
