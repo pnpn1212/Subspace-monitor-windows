@@ -8,7 +8,7 @@ https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_s
 ```
 https://github.com/pnpn1212/Subspace-monitor-windows/archive/refs/heads/main.zip
 ```
-2/ Giải nén thư mục và sửa đổi tên Node, địa chỉ ví, đường dẫn lưu file, đường dẫn plot, dung lượng cần plot
+2/ Edit file
 - Mở docker-compose.yml lên và edit 
 - Lưu lại sau khi edit xong
 
