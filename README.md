@@ -3,7 +3,7 @@ Tải về và cài đặt
 ```
 https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*xi55t8*_ga*Mzg3NDU4MjguMTY5MjY5OTgxMg..*_ga_XJWPQMJYHQ*MTY5MzI1NDg2NC4zLjAuMTY5MzI1NDg2NC42MC4wLjA
 ```
-# Subspace Guide cài đặt (dành cho docker desktop trên Windows)
+# Setup (dành cho docker desktop trên Windows)
 1/ Tải về thư mục Subspace
 ```
 https://github.com/pnpn1212/Subspace-monitor-windows/archive/refs/heads/main.zip
