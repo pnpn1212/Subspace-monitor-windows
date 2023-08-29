@@ -5,6 +5,7 @@ https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_s
 ```
 # Setup (dành cho docker desktop trên Windows)
 - Lưu ý: Subspace chạy trên Docker Desktop bắt buộc CPU phải từ 2015 trở về sau mới có thể chạy được
+
 1/ Tải về thư mục Subspace
 ```
 https://github.com/pnpn1212/Subspace-monitor-windows/archive/refs/heads/main.zip
