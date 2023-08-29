@@ -27,7 +27,7 @@ docker-compose up -d
 ![image](https://github.com/pnpn1212/Subspace-monitor-windows/assets/76662222/c6f97b18-1fbf-4c89-aeea-bc7b67158a1d)
 
 4/Truy cập Grafana
-Nếu là VPS thì thay localhost bằng địa chỉ IP
+- Nếu là VPS thì thay localhost bằng địa chỉ IP
 ```
 localhost:3000
 ```
